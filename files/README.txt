@@ -1,0 +1,1 @@
+Folder for logs, screenshots, and temporary files.
